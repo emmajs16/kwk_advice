@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab");
+
+* {
+  background-color: #b0e1d8;
+  font-family: Roboto Slab;
+  text-decoration: none;
+}
+
+body {
+  border: solid #eaf9f8 8px;
+  height: auto;
+  text-align: center;
+}
+
+h1{
+  font-size: 500%;
+  color: #395990;
+}
+
+h2{
+  color: #395990;
+}
+
+h3{
+  font-size: 100%;
+  color: #395990;
+}
+
+.questions{
+  border: solid #15e376;
+  margin: 10%;
+}
+
+.answer li{
+  display: inline-block;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #395990;
+  font-size: 200%;
+}
+
+.answer{
+  border-color: solid #eaf9f8;
+}
+
+p{
+  font-size: 200%;
+  text-align: center;
+  vertical-align: center;
+}
